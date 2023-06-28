@@ -1,0 +1,2 @@
+Z:\Visual Studio\console_restaurant\x64\Debug\console_restaurant.exe
+\\Mac\Home\Desktop\test\console_restaurant\x64\Debug\console_restaurant.exe

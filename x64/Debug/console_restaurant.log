@@ -1,0 +1,11 @@
+﻿  data_row.cpp
+  dish.cpp
+  localization.cpp
+  main.cpp
+  main_loop.cpp
+  md5.cpp
+\\Mac\Home\Desktop\test\console_restaurant\md5.cpp(114,39): warning C4267: аргумент: преобразование из "size_t" в "MD5::size_type"; возможна потеря данных
+  password_hash.cpp
+  user.cpp
+  Создание кода...
+  console_restaurant.vcxproj -> \\Mac\Home\Desktop\test\console_restaurant\x64\Debug\console_restaurant.exe
